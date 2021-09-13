@@ -3,21 +3,17 @@ title: '最初の投稿'
 date: '2019-12-31'
 ---
 
-これは！
-
-最初の！
-
-投稿！
+最初の投稿
 
 - hoge
 - fuga
 - piyo
 
-**にゃー**
+**太字**
 
-~~あああ~~
+~~打ち消し線~~
 
-ほげ？`hoge?`ほげー
+`code`
 
 ```python
 print("hello!")
@@ -25,7 +21,7 @@ print("hello!")
 
 *italic*
 
-<details><summary>要約</summary>内容</details>
+<details><summary>summary</summary>content</details>
 
 :::note info
 info
